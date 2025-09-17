@@ -10,4 +10,4 @@
 
 ## <ins> Reformating the Data </ins>
 
-[JSON formatting of Dataset](/cvsjson.json)
+[JSON formatting of Dataset](/csvjson.json)
