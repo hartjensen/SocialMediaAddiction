@@ -11,3 +11,7 @@
 ## <ins> Reformating the Data </ins>
 
 [JSON formatting of Dataset](/csvjson.json)
+
+## <ins> Examining the Data <ins>
+
+[Notebook of Analysis](/SSMAddiction.ipynb)
