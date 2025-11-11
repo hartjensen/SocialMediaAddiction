@@ -8,7 +8,7 @@
 ![Project Poster and Findings](/Poster.png)
 
 ## <ins> Methodology <ins>
-[RPub Markdown Analysis](https://rpubs.com/hjensen/1340286)
+[RPub Markdown Analysis](https://rpubs.com/hjensen/1340286) 
 
 [JSON formatting of Dataset](/csvjson.json)
 
